@@ -1,0 +1,19 @@
+.navbar{
+    text-align: center;
+    background-color: red;
+}
+
+.info{
+    text-align: center;
+}
+
+.produits{
+    max-width: 10%;
+    max-height: 10%;
+    margin: 5%;
+}
+
+.menu{
+    margin-top: 5%;
+}
+
